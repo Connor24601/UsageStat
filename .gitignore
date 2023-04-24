@@ -1,0 +1,27 @@
+# do not store security keys
+
+
+# ignore any compile artefacts
+*.pyc
+*.bin
+.build/
+*.log
+
+# ignore swap files
+*.swp
+*~
+
+# ignore git/Dropbox files
+.history
+.DS_Store
+
+# ignore IDEs
+.vscode
+.vscode/
+.vagrant/
+.cproject/
+.settings/
+.idea
+.idea/
+*.iml
+.browse.VC.db*
