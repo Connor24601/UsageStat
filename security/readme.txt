@@ -1,0 +1,1 @@
+This is the file where your security keys will be stored. Gitignore automatically excludes all .pem files from this directory.
