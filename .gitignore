@@ -1,5 +1,6 @@
-# do not store security keys
-
+# do not store secure stuff
+security/*.pem
+data/*.csv
 
 # ignore any compile artefacts
 *.pyc
